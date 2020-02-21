@@ -1,1 +1,1 @@
-ini file dari pemilik
+ini file dari pemilik.txt
